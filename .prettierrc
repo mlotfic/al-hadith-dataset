@@ -1,0 +1,6 @@
+{
+    "printWidth": 9999,  // Prevents line wrapping
+    "htmlWhitespaceSensitivity": "ignore",
+    "proseWrap": "never",
+    "singleAttributePerLine": false  // Ensures attributes stay on the same line
+  }
